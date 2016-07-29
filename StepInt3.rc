@@ -1,0 +1,3 @@
+#include "Res/StepInt3Dlg.rc"
+#include "Res/StepInt3Res.rc"
+#include "Res/StepInt3Ver.rc"

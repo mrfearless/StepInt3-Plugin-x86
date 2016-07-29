@@ -1,0 +1,6 @@
+#define MANIFEST 						24
+1						MANIFEST  DISCARDABLE "StepInt3.xml"
+100						ICON      DISCARDABLE "Images/StepInt3_.ico"
+101						RCDATA    DISCARDABLE "Images/StepInt3_.png"
+121						RCDATA    DISCARDABLE "Images/check.png"
+122						RCDATA    DISCARDABLE "Images/nocheck.png"
